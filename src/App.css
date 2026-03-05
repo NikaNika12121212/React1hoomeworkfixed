@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+h1{
+  text-align: center;
+  color: red;
+  position: relative;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  left: 500px;
+  bottom: 400px;
+  background-color: gold;
+  border-radius: 15px;
+}
+
+body{
+  background-color: goldenrod;
+}
+
+.Bbb{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  position: relative;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
