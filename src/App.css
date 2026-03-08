@@ -15,6 +15,17 @@ h1{
   border-radius: 15px;
 }
 
+p{
+  text-align: center;
+  color: red;
+  position: relative;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  left: 300px;
+  bottom: 300px;
+  background-color: gold;
+  border-radius: 15px;
+}
+
 body{
   background-color: goldenrod;
 }
